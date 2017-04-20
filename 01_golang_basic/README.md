@@ -1,4 +1,4 @@
-# 01. Golang Basic
+# 01. Let's write Golang
 
 ## Exercise(ex01.go)
 

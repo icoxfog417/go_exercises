@@ -28,7 +28,7 @@ Gitの細かい使い方については触れないため、困ったときは�
 
 ## Exercises
 
-* Let's touch the Go
+* [Let's write Golang](https://github.com/icoxfog417/go_exercises/tree/master/01_golang_basic)
   * Go言語の基本的な文法を理解しよう
 * Collections
   * Go言語におけるコレクションの種類と使いかたを理解しよう
