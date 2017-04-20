@@ -30,7 +30,7 @@ Gitの細かい使い方については触れないため、困ったときは�
 
 * [Let's write Golang](https://github.com/icoxfog417/go_exercises/tree/master/01_golang_basic)
   * Go言語の基本的な文法を理解しよう
-* Collections
+* [Collections](https://github.com/icoxfog417/go_exercises/tree/master/02_collections)
   * Go言語におけるコレクションの種類と使いかたを理解しよう
 * Find Pattern
   * 文字列の中から特定のパターンを見つけてみよう
